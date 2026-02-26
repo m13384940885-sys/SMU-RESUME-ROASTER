@@ -135,7 +135,7 @@ if not st.session_state.messages:
                 """
                 
                 with st.spinner("Analyzing candidate clout metrics and synergies..."):
-                    model = genai.GenerativeModel('gemini-1.5-flash')
+                    model = genai.GenerativeModel('gemini-3-flash')
                     st.session_state.chat_session = model.start_chat(history=[])
                     response = st.session_state.chat_session.send_message(initial_prompt)
                     
