@@ -7,7 +7,14 @@ from dotenv import load_dotenv
 
 # 1. Setup API
 load_dotenv()
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+
+# Securely fetch the API key whether on Mac (os.getenv) or Live Website (st.secrets)
+if "GEMINI_API_KEY" in st.secrets:
+    API_KEY = st.secrets["GEMINI_API_KEY"]
+else:
+    API_KEY = os.getenv("GEMINI_API_KEY")
+
+genai.configure(api_key=API_KEY)
 
 # 2. Page Configuration (Changed back to 'centered' for that minimalist look)
 st.set_page_config(page_title="SMU HR Portal", page_icon="🏢", layout="centered")
@@ -128,7 +135,7 @@ if not st.session_state.messages:
                 """
                 
                 with st.spinner("Analyzing candidate clout metrics and synergies..."):
-                    model = genai.GenerativeModel('gemini-pro')
+                    model = genai.GenerativeModel('gemini-1.5-flash')
                     st.session_state.chat_session = model.start_chat(history=[])
                     response = st.session_state.chat_session.send_message(initial_prompt)
                     
