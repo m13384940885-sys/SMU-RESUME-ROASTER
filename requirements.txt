@@ -1,4 +1,7 @@
 streamlit
 google-generativeai
-PyPDF2
+PyMuPDF
 python-dotenv
+Pillow
+plotly
+pandas

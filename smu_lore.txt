@@ -1,17 +1,14 @@
-SMU STEREOTYPES AND LORE FOR ROASTING:
+SMU (Singapore Management University) Context & Stereotypes for Weaponization:
 
-SMU CORPORATE LORE AND STEREOTYPES (CONFIDENTIAL HR DATA):
+1. "Class Part" Try-Hards: SMU grades heavily on class participation. Students are notorious for yapping for 10 minutes, saying absolutely nothing of value, or repeating exactly what the professor just said just to get "airtime." If their resume looks padded, accuse them of trying to "Class Part" their way through life.
+2. eBOSS Bidding Trauma: Students use fake money (e-dollars) on eBOSS to bid for classes. It is stressful and cutthroat. Compare their useless skills to a "failed 10-dollar eBOSS bid for an elective."
+3. The "SMU Nod": The fake, aggressive nodding students do during presentations to pretend they are listening to their group mates while plotting to steal credit. 
+4. Connexion & GSR Squatters: Fighting tooth and nail for Group Study Rooms (GSRs) at Li Ka Shing Library or Connexion. Mention them camping in a GSR doing nothing.
 
-### FACULTIES & MAJORS
-- LKCSB (Business): Wear Uniqlo suits to 8 AM classes. Treat networking events like the Hunger Games. LinkedIn bios always say "Incoming Summer Analyst at [Bank]". They think speaking for 5 minutes in class without making a point equals an A+.
-- SCIS (Computing/IS): Live in the SMU Connexion building. Survive entirely on iced lattes and hackathon pizza. Socially awkward but will earn triple the salary of business students. Constantly flexing their LeetCode scores.
-- SOA (Accounting): Soulless. Their entire personality revolves around getting into a Big 4 firm (KPMG, EY, PwC, Deloitte). They talk about balance sheets on dates.
-- SOSS (Social Sciences): The only people at SMU who actually care about society. Constantly stressed about readings. Everyone assumes they are going to work in HR or become a teacher.
-- SOE (Economics): Elitist but miserable. Constantly drawing supply and demand graphs to explain basic human interactions. Always complaining about econometrics.
-- YPHSL (Law): Think they are the main characters of SMU. Dress impeccably, carry expensive briefcases, and will argue with the professor for 20 minutes over a single word in a contract.
-
-### SMU CULTURE & TOXIC TRAITS
-- The Bidding System (BOSS): Students treat module bidding like Wall Street day trading (eBoss). They will hoard e$ and backstab friends to get a good professor.
-- Project Work (Group Mates): SMU is notorious for "snakes" (group mates who do no work but take all the credit during the final presentation). 
-- Class Participation: "Seminar-style learning" means students will violently raise their hands to say "I agree with what John said, but to piggyback on that..." just to get class part marks. 
-- CCAs (Clubs): If they are in a Case Club (like MCC), they think they are McKinsey consultants already. If they are in Bondue, they are glorified party planners. If they are in an Executive Committee (ExCo), they put it at the very top of their resume like they are the CEO of a Fortune 500 company.
+SCHOOL STEREOTYPES (Use the one that matches their resume):
+- LKCSB (Business): "Snakes in suits." Think they are elite investment bankers but will end up selling insurance or doing generic B2B sales. Standard uniform is a Uniqlo oversized airism tee. Obsessed with casing competitions to mask their complete lack of hard technical skills.
+- SCIS (Computing/IS): Sweaty, basement-dwelling code monkeys. Will flex their LeetCode score but panic when asked to speak to a human. Resume is just a list of APIs they barely know how to implement.
+- SOE (Economics): Glorified accountants. Obsessed with STATA and supply-demand curves that don't apply to the real world. Will try to apply macroeconomics to explain why they get no matches on dating apps.
+- SOA (Accountancy): Boring, risk-averse, and destined for the Big 4 audit meat grinder. Will gladly work 90 hours a week for the prestige of 'Senior Associate' and a $50 Starbucks gift card.
+- SOSS / CIS (Social Sciences): Will write a 10-page essay on systemic inequality but desperately apply for a corporate HR or consulting job anyway. Constantly fighting for causes on Instagram.
+- SOL (Law): Insufferable, elitist, and permanently sleep-deprived. Will argue with the HR manager about the font formatting of their own rejection letter.
